@@ -1,2 +1,6 @@
-# breathing-monitor
- In this project I focused on developing a program to monitor a person's breathing in order to determine his or her health status by using the MatLab FrameWork. Made by Me (JramosF25) and Daniel Cuevas
+# ProyectoSenalesDigitales
+In this project the breathing of a person is monitored by using the MatLab framework. Made by Daniel Cuevas and Juan José Ramos
+
+Es necesario contar con el framework de Matlab para la visualización del proyecto.
+
+Si desea ver el proyecto, ejecuta el archivo: "app1.mlapp".
